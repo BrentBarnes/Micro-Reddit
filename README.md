@@ -8,15 +8,15 @@ This project was created to practice active record and model associations. There
 <p float = 'left' >
   <figure>
     <figcaption>User Model</figcaption>
-    <img src="screenshots/user.png" alt="User Model" width="400" height="300">
+    <img src="screenshots/user.png" alt="User Model" width="600" height="300">
   </figure>
   <figure>
     <figcaption>Post Model</figcaption>
-    <img src="screenshots/post.png" alt="Post Model" width="400" height="300">
+    <img src="screenshots/post.png" alt="Post Model" width="600" height="300">
   </figure>
   <figure>
     <figcaption>Comment Model</figcaption>
-    <img src="screenshots/user.png" alt="Comment Model" width="400" height="300">
+    <img src="screenshots/user.png" alt="Comment Model" width="600" height="300">
   </figure>
 </p>
 
