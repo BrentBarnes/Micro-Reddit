@@ -1,24 +1,30 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro Reddit
 
-Things you may want to cover:
+This project was created to practice active record and model associations. There is no HTML or CSS for this project.
 
-* Ruby version
+### Models
 
-* System dependencies
+<p float = 'left' >
+  <figure>
+    <figcaption>User Model</figcaption>
+    <img src="screenshots/user.png" alt="User Model" width="400" height="300">
+  </figure>
+  <figure>
+    <figcaption>Post Model</figcaption>
+    <img src="screenshots/post.png" alt="Post Model" width="400" height="300">
+  </figure>
+  <figure>
+    <figcaption>Comment Model</figcaption>
+    <img src="screenshots/user.png" alt="Comment Model" width="400" height="300">
+  </figure>
+</p>
 
-* Configuration
+### Using the Associations
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* User.posts
+* User.comments
+* Post.user
+* Post.comments
+* Comment.post
+* Comment.user
